@@ -16,5 +16,5 @@ Power BI · DAX · SQL Server · Python · Git
 Modelado de datos · Optimización de consultas · Automatización de reportes
 
 #### Contacto
-📧 rene.gutierrez@gis.com.mx  
+📧 phd_felipe@protonmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/rene-gutierrez/)
